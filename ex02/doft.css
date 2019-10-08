@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+}
+.head{
+    background-color: aqua;
+    padding: 20px 20px 20px 40px
+}
+.head img{
+    width: 100%;
+    height: 100px;
+}
+.leftbar{
+    float: left;
+    border: solid;
+    border-color: black;
+}
+.leftbar img{
+    float: left;
+    width: 100px;
+    height: 100px
+}
